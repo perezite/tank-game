@@ -2,6 +2,8 @@
 
 An action game where a tank must fight its way through a 3D city full of hostile enemy tanks.
 
+![Screenshot](assets/screenshot1.png)
+
 A fighter tank must stand its ground in a city filled with enemy tanks. The tank can collect two different power-ups during the game: One recreates life energy, the other equips the tank with a grenade launcher.  
 
 ## Project Description
